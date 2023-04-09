@@ -8,7 +8,7 @@ The OPG images were collected from a dental clinic in India, and the dataset was
 
 ## Downloading the Dataset
 
-The dataset is available for download from [DOI: 10.6084/m9.figshare.22580263](https://doi.org/10.6084/m9.figshare.22580263). To download the dataset, please click on the "Download" button on the Figshare page. The dataset is in ZIP format and is approximately 1.8 GB in size.
+The dataset is available for download from [DOI: 10.6084/m9.figshare.22580263](https://doi.org/10.6084/m9.figshare.22580263). To download the dataset, please click on the "Download" button on the Figshare page. The dataset is in ZIP format and is approximately 1.44 GB in size.
 
 ## License
 
